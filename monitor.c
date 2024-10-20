@@ -1,1 +1,2 @@
-"//refresh rate" 
+"//refresh rate"
+// RGB
