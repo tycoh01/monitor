@@ -1,1 +1,3 @@
-"//refresh rate" 
+//refresh rate
+//RGB detector
+ 
