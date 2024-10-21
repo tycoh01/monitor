@@ -1,4 +1,6 @@
-"//refresh rate"
+
 // RGB detector
-// white color define without blue energy quantum
-// array eye display(distance,dpi)
+// white color define without blue energy quantum)
+//refresh rate
+//arrary eye display(distance, DPI)
+
