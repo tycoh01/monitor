@@ -5,4 +5,4 @@
 //arrary eye display(distance, DPI)
 //求解 array eyei
 //math object
-//
+//subproblem is proposition. problem is compound proposition.
